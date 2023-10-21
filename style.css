@@ -23,6 +23,12 @@ body {
     background-size: cover;
     background-attachment: scroll;
 }
+.mainLogo {
+margin-left: 15px;
+margin-bottom: 10px;
+}
+
+
 .menuButton{
     width: 100px;
     padding: 10px;
