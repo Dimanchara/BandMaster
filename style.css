@@ -109,6 +109,33 @@ margin-top: 50px;
 .newsMainInfo {
     display: flex;
     margin-top: 50px;
+    margin-bottom: 30px;
     align-items: center;
     justify-content: center;
+    
+}
+.img {
+    border-radius:70% 50% 10% 10%;;
+}
+.newsMainInfoText {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    background-color: #d9d9d98e;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.newsMainInfoText2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    
+}
+.newsMainInfoText2 h3 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
