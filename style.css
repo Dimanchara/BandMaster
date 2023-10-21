@@ -12,7 +12,7 @@ header {
 }
 
 head {
-    background-color: #D9D9D9
+    background-color: rgb(217, 217, 217)
 }
 
 body {
@@ -24,8 +24,25 @@ body {
     background-attachment: scroll;
 }
 .menuButton{
-    
-    align-items: center;
+    width: 100px;
     padding: 10px;
     border-left: 3px outset black;
+}
+.menuButton:hover{
+    background-color: rgb(159, 159, 159);
+    border-radius: 10px;
+}
+.menuButton2{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 20%;
+    text-decoration: none;
+    color: black;
+    height: 15px;
+    
+    
+}
+.menuButtonTexts {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
 }
