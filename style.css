@@ -106,3 +106,9 @@ margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+.newsMainInfo {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
