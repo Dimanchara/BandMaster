@@ -79,6 +79,7 @@ margin-top: 50px;
     background-color: #d9d9d98e;
 }
 .contentBlock2{    
+    cursor:pointer;
     background-color: #ff6f0029;
     display: flex;
     flex-direction: column;
