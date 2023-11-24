@@ -48,6 +48,8 @@ margin-top: 50px;
     border-left: 3px outset black;
     cursor:pointer;
     margin-right: 20px;
+    
+    
 }
 .menuButton:hover{
     background-color: rgb(159, 159, 159);
@@ -62,10 +64,15 @@ margin-top: 50px;
     height: 15px;
     
     
+    
 }
 .menuButtonTexts {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 2.5%;
+    
+    
 }
 
 .contentBlock1{
@@ -93,6 +100,18 @@ margin-top: 50px;
     width: 25%;
     transition: 0.5s;
       
+}
+.contentBlock3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 1ch;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    background-color: #d9d9d98e;
+    
 }
 .contentBlock2:hover {
     transform: scale(1.1);
